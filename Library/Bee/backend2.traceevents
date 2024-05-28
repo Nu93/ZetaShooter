@@ -1,0 +1,259 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1715132178225363, "dur":23215, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178248588, "dur":67, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178248694, "dur":395, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178249180, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715132178250286, "dur":135, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178250680, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178250826, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178251019, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178251665, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178251867, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178252088, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178252262, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715132178252502, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1715132178252604, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1715132178252725, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1715132178249119, "dur":3776, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178252898, "dur":219212, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178472111, "dur":270, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178472381, "dur":51, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178472432, "dur":96, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178472601, "dur":74, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178472820, "dur":1845, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1715132178249491, "dur":3433, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715132178252960, "dur":704, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715132178253665, "dur":606, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715132178254271, "dur":4160, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715132178258449, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715132178258434, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715132178278329, "dur":2765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715132178281182, "dur":4353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178285610, "dur":3899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178289582, "dur":4239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178293919, "dur":3670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178297689, "dur":4111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178301875, "dur":3792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178305740, "dur":3791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178309600, "dur":2718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178312383, "dur":3591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715132178316040, "dur":5660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1715132178321782, "dur":4513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1715132178326410, "dur":2759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/level2" }}
+,{ "pid":12345, "tid":1, "ts":1715132178329223, "dur":142830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715132178249514, "dur":3450, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715132178253340, "dur":781, "ph":"X", "name": "File",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178252967, "dur":1467, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715132178254435, "dur":4033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715132178258469, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1715132178283741, "dur":110, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715132178280073, "dur":3791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1715132178283937, "dur":5436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178289445, "dur":5573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178295099, "dur":3795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178298998, "dur":5932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178305036, "dur":3626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178308793, "dur":4825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178313690, "dur":4555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715132178318343, "dur":9552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1715132178328007, "dur":4002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1715132178332052, "dur":140036, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715132178249565, "dur":3807, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715132178253374, "dur":1116, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715132178254491, "dur":4188, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715132178258681, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1715132178282467, "dur":4587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1715132178287145, "dur":5358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178292584, "dur":3853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178296574, "dur":3949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178300599, "dur":4564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178305241, "dur":3816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178309151, "dur":3417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178312669, "dur":3894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715132178325095, "dur":346, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715132178316625, "dur":8849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715132178325619, "dur":3473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1715132178329158, "dur":142890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715132178249444, "dur":3471, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715132178252917, "dur":1194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715132178254111, "dur":4316, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715132178258442, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715132178260232, "dur":3214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1715132178263450, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1715132178263993, "dur":1972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1715132178266020, "dur":132, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1715132178266017, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1715132178266381, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1715132178268692, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178268688, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178269135, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178271834, "dur":5518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178277615, "dur":4173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178281868, "dur":4273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178286212, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178289986, "dur":3898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178293970, "dur":4105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178298146, "dur":3820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178302040, "dur":3658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178305827, "dur":4055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178310004, "dur":3864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178313958, "dur":4022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715132178318081, "dur":10049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1715132178328199, "dur":143874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715132178249393, "dur":3511, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715132178252906, "dur":5497, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715132178260570, "dur":719, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":5, "ts":1715132178261296, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715132178261396, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1715132178261664, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\game\\FINAL SHOOTERZX\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715132178261777, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player4a26187a-inputdata.json" }}
+,{ "pid":12345, "tid":5, "ts":1715132178261293, "dur":666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715132178262282, "dur":64, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715132178263132, "dur":203700, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715132178470206, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715132178470205, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715132178470348, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1715132178249535, "dur":3517, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715132178253587, "dur":678, "ph":"X", "name": "File",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178253054, "dur":1348, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715132178254402, "dur":4062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715132178258467, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1715132178278403, "dur":1998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1715132178280602, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178282837, "dur":3608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178286532, "dur":5131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178291736, "dur":3843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178295686, "dur":3930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178299725, "dur":3980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178303777, "dur":3899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178307819, "dur":4457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178312350, "dur":4177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715132178324580, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715132178316591, "dur":8103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":6, "ts":1715132178325306, "dur":2670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1715132178328023, "dur":144022, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715132178249608, "dur":3773, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715132178253384, "dur":621, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715132178254005, "dur":219, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715132178254224, "dur":4441, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715132178258666, "dur":453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1715132178261286, "dur":2289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1715132178263631, "dur":235, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1715132178263628, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1715132178264019, "dur":2515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1715132178266583, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1715132178266580, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1715132178266923, "dur":1927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1715132178268903, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178268900, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178269183, "dur":15803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178285273, "dur":3309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178295605, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715132178288664, "dur":7028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178295779, "dur":3866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178299732, "dur":4241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178304065, "dur":3823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178307963, "dur":5055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178313081, "dur":4162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715132178317346, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1715132178321377, "dur":5177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1715132178326629, "dur":3057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1715132178329755, "dur":142356, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715132178249640, "dur":4593, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715132178254233, "dur":4291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715132178258524, "dur":660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1715132178261218, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1715132178263752, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1715132178263976, "dur":2154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1715132178266191, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1715132178266420, "dur":2200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1715132178268664, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1715132178269198, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1715132178271153, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1715132178271830, "dur":6989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1715132178283554, "dur":221, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715132178278943, "dur":4858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178283875, "dur":3848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178287782, "dur":5424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178293401, "dur":4297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178297801, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178301216, "dur":4455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178305743, "dur":3933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178309737, "dur":3720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178313527, "dur":7499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715132178321166, "dur":6597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1715132178327819, "dur":3192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1715132178331149, "dur":140960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715132178249687, "dur":4594, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715132178254282, "dur":4147, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715132178258449, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1715132178258434, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1715132178259423, "dur":5027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1715132178264503, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1715132178265608, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1715132178267151, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1715132178267307, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1715132178269625, "dur":1667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter.exe" }}
+,{ "pid":12345, "tid":9, "ts":1715132178271802, "dur":7892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178279787, "dur":6153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178286025, "dur":6854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178296626, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715132178292945, "dur":3753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178297009, "dur":5264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178302418, "dur":3757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178306251, "dur":4690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178311030, "dur":4675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715132178315778, "dur":11766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":9, "ts":1715132178327685, "dur":5487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1715132178333259, "dur":138853, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715132178249714, "dur":4572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715132178254287, "dur":4193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715132178258510, "dur":423, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715132178258483, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715132178283101, "dur":3094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715132178286263, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178291018, "dur":4314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178295437, "dur":3669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178299192, "dur":3322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178302631, "dur":3651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178306358, "dur":4178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178310660, "dur":5553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715132178316331, "dur":2199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":10, "ts":1715132178318643, "dur":8284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1715132178326987, "dur":2707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1715132178329735, "dur":142311, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715132178249751, "dur":4542, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715132178254293, "dur":4305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715132178258611, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1715132178258600, "dur":373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1715132178283726, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715132178283800, "dur":2569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1715132178286436, "dur":4495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178291021, "dur":4343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178295454, "dur":3787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178299306, "dur":4023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178303410, "dur":3615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178307096, "dur":3680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178310843, "dur":4138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178315063, "dur":3310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715132178318451, "dur":9697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":11, "ts":1715132178328193, "dur":143923, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715132178249797, "dur":4510, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715132178254308, "dur":4424, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715132178258740, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715132178258732, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715132178282638, "dur":2370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715132178285165, "dur":2848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178288081, "dur":4405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178292580, "dur":3684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178296335, "dur":3724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178300122, "dur":3595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178303846, "dur":3578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178307557, "dur":3979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178311603, "dur":4014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/2D Space Shooter_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178315669, "dur":257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\project\\2022.3.19f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178315666, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/game/build/Double Zeta Shooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178315949, "dur":40324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/game/build/Double Zeta Shooter/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715132178356322, "dur":115748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715132178476736, "dur":1684, "ph":"X", "name": "ProfilerWriteOutput" }
+,

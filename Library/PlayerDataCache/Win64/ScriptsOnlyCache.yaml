@@ -1,0 +1,266 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - ChangeSceneOnKeyPress
+    - DamageHandler
+    - DelayedSceneTransition
+    - EnemyShooting
+    - EnemySpawner
+    - ExitButtonScript
+    - FacesPlayer
+    - MoveForward
+    - PlayerMovement
+    - PlayerShooting
+    - PlayerSpawner
+    - SelfDestruct
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Scene/EndGame.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1538}
+    - Class: 114
+      Script: {instanceID: 1552}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    Assets/Scene/IntroGame.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1558}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
+      Script: {instanceID: 0}
+    Assets/Scene/MainGame.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 60
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1540}
+    - Class: 114
+      Script: {instanceID: 1542}
+    - Class: 114
+      Script: {instanceID: 1544}
+    - Class: 114
+      Script: {instanceID: 1546}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 1550}
+    - Class: 114
+      Script: {instanceID: 1556}
+    - Class: 114
+      Script: {instanceID: 1560}
+    - Class: 114
+      Script: {instanceID: 1562}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/Scene/StartGame.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1538}
+    - Class: 114
+      Script: {instanceID: 1552}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: b3f303f020919f1485ed4b1e20063408
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ChangeSceneOnKeyPress
+  - hash:
+      serializedVersion: 2
+      Hash: 21e5af1109101492d627edc7e324d1a4
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MoveForward
+  - hash:
+      serializedVersion: 2
+      Hash: 37cabff5d1d065acbfb1eca54c381b96
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EnemySpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 2de48b1337a89b6fdced71bfff694b4e
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SelfDestruct
+  - hash:
+      serializedVersion: 2
+      Hash: ad6077550abc5cac2cf1b09a68003376
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 48463775a1e000dfa42367e3e01192b4
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 2c3d0994e7e4e19aeb6e34a741840d9b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FacesPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 2f4085e1cc3e6b90b0d3fd1729dec106
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ExitButtonScript
+  - hash:
+      serializedVersion: 2
+      Hash: 0cf7010ade58884652333305c65971cb
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CameraFollow
+  - hash:
+      serializedVersion: 2
+      Hash: c36e5e806e9c591492d594d3a7221a31
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DamageHandler
+  - hash:
+      serializedVersion: 2
+      Hash: ecb7ba5968ad304475062c9dc52ab091
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DelayedSceneTransition
+  - hash:
+      serializedVersion: 2
+      Hash: e9a97655f5a678b293bca17fdc6233f9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: EnemyShooting
+  - hash:
+      serializedVersion: 2
+      Hash: 902b77b953044384c1e364787f11da9b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerShooting
+  platform: 19
+  scenePathNames:
+  - Assets/Scene/StartGame.unity
+  - Assets/Scene/IntroGame.unity
+  - Assets/Scene/MainGame.unity
+  - Assets/Scene/EndGame.unity
+  playerPath: C:/game/build/Double Zeta Shooter/2D Space Shooter.exe
